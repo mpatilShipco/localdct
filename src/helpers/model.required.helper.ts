@@ -1,0 +1,1 @@
+export const HELPER_MODEL_REQUIRED_USER = require('../models/user');

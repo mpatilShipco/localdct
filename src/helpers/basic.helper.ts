@@ -1,0 +1,1 @@
+export const HELPER_BASIC_MOMENT = require('moment');
